@@ -58,7 +58,7 @@ Our project center around 20 types of vegetables:
 - **spinach**
 - **sweetpotato**
 - **turnip**
-- 
+
 ---
 
 ### About the Project
