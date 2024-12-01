@@ -11,25 +11,54 @@ The dataset reference that we use comes from Kaggle but the one we are currently
 ---
 
 ## Fruits in Focus
-Our project centers around 16 types of fruits:
+Our project centers around 21 types of fruits:
 
 - **Apple**
 - **Avocado**
 - **Banana**
 - **Durian**
+- **Grapes**
 - **Guava**
 - **Kiwi**
 - **Langsat**
+- **Lemon**
 - **Mango**
+- **Mangosteen**
 - **Melon**
 - **Orange**
 - **Papaya**
+- **Pear**
 - **Pineapple**
-- **Rambutan**
 - **Salak**
+- **Strawberies**
+- **Tomato**
 - **Water Guava**
 - **Watermelon**
 
+## Vegetables in Focus
+Our project center around 20 types of vegetables:
+
+- **beetroot**
+- **cabbage**
+- **carrot**
+- **cauliflower**
+- **chilli pepper**
+- **corn**
+- **cucumber**
+- **eggplant**
+- **garlic**
+- **ginger**
+- **lettuce**
+- **onion**
+- **paprika**
+- **peas**
+- **potato**
+- **raddish**
+- **soy beans**
+- **spinach**
+- **sweetpotato**
+- **turnip**
+- 
 ---
 
 ### About the Project
